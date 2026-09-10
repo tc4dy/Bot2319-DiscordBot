@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+ipinfo
+requests
+python-whois
+dnspython
+aiohttp
