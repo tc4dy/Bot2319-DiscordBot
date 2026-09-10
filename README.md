@@ -2,7 +2,7 @@
 
 # Bot-2319
 
-A full-stack Discord bot packed with moderation, fun, and utility tools. Built in Python with an easy setup, button-based help menu, and a fully bilingual interface. Only Paste & Run.
+A full-stack Discord bot packed with moderation, fun, and utility tools. Built in Python with an easy setup, button-based help menu, and a All-in-One (AIO). Only Paste & Run.
 
 Bot-2319 is designed to be a single-file, zero-hassle solution for Discord server management. Whether you're running a small friend group or a larger community, it handles everything from kicking troublemakers to generating QR codes — all without any complicated configuration or database setup. Every setting is stored locally in simple JSON files, so there's nothing to install beyond the Python dependencies. The bot ships with a built-in XP and leveling system that keeps your community engaged over time, alongside a full suite of moderation tools that let staff act quickly and consistently. It also includes a variety of fun and utility commands that give members a reason to stick around and interact.
 
