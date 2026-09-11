@@ -42,23 +42,6 @@ Bot-2319 is designed to be a single-file, zero-hassle solution for Discord serve
 
 Duration formats: `10s`, `10m`, `1h`, `2d` — permanent if omitted.
 
-### 📈 XP & Rank System
-
-Users earn 230–250 XP per message. Levels unlock rank titles automatically. *(With the in-bot credit/salary system, users who accumulate enough earnings can participate in server events, giveaways, and community activities organized by the staff — making activity actually rewarding.)*
-
-| Rank | Level | Salary |
-|---|---|---|
-| 🌱 Rookie | 0 | 0 € |
-| ⚽ Player | 5 | 60K € |
-| 🥾 Professional | 10 | 100K € |
-| ⭐ Star | 20 | 240K € |
-| 🔥 Superstar | 35 | 600K € |
-| 💎 Elite | 50 | 1M € |
-| 👑 Captain | 65 | 1.5M € |
-| 🏆 Champion | 80 | 3M € |
-| 🐐 GOAT | 90 | 5M € |
-| 🌍 LEGEND | 100 | 10M € |
-
 ### 🌐 Utility & Lookup
 
 | Command | Description |
@@ -96,6 +79,23 @@ Users earn 230–250 XP per message. Levels unlock rank titles automatically. *(
 | `!setup staffrole @role` | Set the register staff role |
 | `!setup remove <setting>` | Remove a setting |
 | `!setup show` | View all current settings |
+
+### 📈 XP & Rank System
+
+Users earn 230–250 XP per message. Levels unlock rank titles automatically. *(With the in-bot credit/salary system, users who accumulate enough earnings can participate in server events, giveaways, and community activities organized by the staff — making activity actually rewarding.)*
+
+| Rank | Level | Salary |
+|---|---|---|
+| 🌱 Rookie | 0 | 0 € |
+| ⚽ Player | 5 | 60K € |
+| 🥾 Professional | 10 | 100K € |
+| ⭐ Star | 20 | 240K € |
+| 🔥 Superstar | 35 | 600K € |
+| 💎 Elite | 50 | 1M € |
+| 👑 Captain | 65 | 1.5M € |
+| 🏆 Champion | 80 | 3M € |
+| 🐐 GOAT | 90 | 5M € |
+| 🌍 LEGEND | 100 | 10M € |
 
 ---
 
